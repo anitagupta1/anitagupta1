@@ -5,7 +5,7 @@ I'm a passionate **individual who loves to learn new things** from India. I enjo
 <img align="right" alt="coding" width="400"  src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
 ## 👩‍💻 About Me
-- 🏫 Currently pursuing **M.Tech in Information Technology** at IIIT Allahabad (GPA: 8.89).
+- 🏫 Currently pursuing **M.Tech in Information Technology** at IIIT Allahabad.
 - 🏅 Solved 450+ problems across platforms like **Leetcode**, **GeeksforGeeks**, and **Coding Ninja**.
 - 🌱 I’m currently working on **Lightweight Encryption for IoT**.
 - 💬 Ask me about **Data Structures, Cryptography, Frontend**.
