@@ -49,16 +49,7 @@ I'm a passionate **individual who loves to learn new things** from India. I enjo
 
 </details>
 
-<details>
-<summary>Soft Skills</summary> <br>
 
-![Leadership](https://img.shields.io/badge/Leadership-orange?style=for-the-badge)
-![Teamwork](https://img.shields.io/badge/Teamwork-orange?style=for-the-badge)
-![Communication](https://img.shields.io/badge/Communication-orange?style=for-the-badge)
-![Ownership](https://img.shields.io/badge/Ownership-orange?style=for-the-badge)
-![Commitment](https://img.shields.io/badge/Commitment-orange?style=for-the-badge)
-
-</details>
 
 ## 💼 Projects
 Check out my projects on **[GitHub](https://github.com/anitagupta1)**.
