@@ -10,6 +10,11 @@ I'm a passionate **individual who loves to learn new things** from India. I enjo
 - 🌱 I’m currently working on **Lightweight Encryption for IoT**.
 - 💬 Ask me about **Data Structures, Cryptography, Frontend**.
 - 📫 Reach me at: anitagupta2880@gmail.com
+- 🌎 I know **English, Hindi.**
+- 📍 From **India**
+
+  ## Hacktoberfest 2024 Badges
+[![An image of @anitagupta1's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anitagupta1)](https://holopin.io/@anitagupta1)
 
 ## 🚀 Skills
 
